@@ -205,3 +205,5 @@ data
 data/
 data/**
 data/**/*
+
+.gitignore
