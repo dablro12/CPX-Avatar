@@ -17,7 +17,7 @@
 3. **환자 교육**: 학생이 진단, 검사, 치료 계획을 제시하면, 시스템이 해당 내용이 적절한지 평가하고 피드백을 제공합니다.
 
 ### 활용 데이터
-![Data Introduce]("demo/data_introduce.png")
+![Data]("demo/data_introduce.png")
 
 ### 사용 기술:
 ![Architecture](demo/architecture.png)
