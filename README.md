@@ -4,7 +4,7 @@
 **CLAP**은 의대생들이 CPX(Clinical Performance Examination) 준비를 돕기 위해 개발된 오픈소스 어노테이션 툴입니다. ChatGPT와 같은 대형 언어 모델(LLM)을 활용하여, 학생들이 실습 파트너나 모의 환자 없이도 연습할 수 있는 환경을 제공합니다.
 
 ## 프로젝트 소개
-![demo video]("demo/demo.mp4")
+![demo video](demo/demo.mp4)
 
 ### 해결하고자 하는 문제:
 - **파트너 매칭 어려움**: 실습을 위한 파트너를 구하기 어려운 경우가 많습니다.
@@ -17,7 +17,7 @@
 3. **환자 교육**: 학생이 진단, 검사, 치료 계획을 제시하면, 시스템이 해당 내용이 적절한지 평가하고 피드백을 제공합니다.
 
 ### 활용 데이터
-![Data]("demo/data_introduce.png")
+![Data](demo/data_introduce.png)
 
 ### 사용 기술:
 ![Architecture](demo/architecture.png)
